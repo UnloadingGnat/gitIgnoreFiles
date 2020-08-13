@@ -2,8 +2,4 @@
 
 This repo is a compilation of the standard github .gitignore files.
 
-Languages:
--Python
--C++
--Java
--Node
+Languages: Python, C++, Java, Node
